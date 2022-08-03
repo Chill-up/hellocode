@@ -1,0 +1,1 @@
+﻿string username = Console.ReadLine();
